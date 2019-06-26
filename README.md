@@ -2,7 +2,7 @@
 Videojuego para web o para PC de naves espaciales en 2D. 2018.<br/>
 Lenguaje usado: C# para Unity.
 
-## Imagenes
+## Imágenes
 ![Imagen4](https://user-images.githubusercontent.com/44010738/60154643-91a29b00-97ad-11e9-8d39-f7b3801f9089.PNG)
 ![Imagen5](https://user-images.githubusercontent.com/44010738/60154644-923b3180-97ad-11e9-9fc7-3cb961f6744c.PNG)
 ![Imagen1](https://user-images.githubusercontent.com/44010738/60154645-923b3180-97ad-11e9-81ce-5c3c3216e3f5.PNG)
